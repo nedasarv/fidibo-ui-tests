@@ -31,7 +31,7 @@ Fidibo offers three login methods for users:
 
 ##  Project Structure
 
-
+```
 fidibo-ui-tests/
 │
 ├── cypress/
@@ -46,14 +46,14 @@ fidibo-ui-tests/
 ├── package.json
 └── README.md
 
-
+```
 
 ---
 
 
-## 🛠 Installation & Running Tests
+##  Installation & Running Tests
 
-1. Clone the repository:
+Clone the repository:
 
 
 git clone https://github.com/nedasarv/fidibo-ui-tests.git
