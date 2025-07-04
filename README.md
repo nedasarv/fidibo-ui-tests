@@ -58,21 +58,22 @@ fidibo-ui-tests/
 git clone https://github.com/nedasarv/fidibo-ui-tests.git
 cd fidibo-ui-tests
 
+## 
 2. Install dependencies:
 npm install
 
-
+##
 3. Create a cypress.env.json file and add your credentials:
 {
   "email": "your_email@example.com",
   "password": "your_password"
 }
  This file is listed in .gitignore and will not be tracked in Git.
-
+##
 4. Run tests:
 npx cypress open
 
-
+##
 Project Status
  Login success with email & password
 
@@ -81,6 +82,6 @@ Project Status
  Login with phone number & OTP
 
  Login with Google account
-
+##
  Author
 Developed by Neda Sarvestani
